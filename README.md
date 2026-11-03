@@ -22,15 +22,13 @@ Open http://127.0.0.1:4173. You can also open `index.html` directly. Google Font
 
 ## Publish to GitHub Pages
 
-The repository is configured for `https://github.com/santoshyadav2401/santoshyadav2401.git` on `main`. Publication was deferred at the owner's request. Sign into GitHub CLI with an account that can write to this repository, then run:
+The portfolio repository is `https://github.com/santoshyadav2401/santoshyadav2401.github.io.git` on `main`. The public portfolio is hosted at **https://santoshyadav2401.github.io/**. To publish future changes, commit them and run:
 
 ```powershell
 git push -u origin main
 ```
 
-On GitHub, open **Settings → Pages**, select **Deploy from a branch**, then choose **main** and **/ (root)**. Since this repository is named `santoshyadav2401`, the expected Pages URL is `https://santoshyadav2401.github.io/santoshyadav2401/`. A root profile site at `https://santoshyadav2401.github.io/` instead requires a repository named `santoshyadav2401.github.io`.
-
-The repository name also supports GitHub's profile README convention; the website needs Pages enabled separately. Do not commit personal certificates, transcripts or unrelated local images.
+GitHub Pages uses **Deploy from a branch**, **main**, and **/ (root)**. The original `santoshyadav2401/santoshyadav2401` repository is preserved separately. Do not commit personal certificates, transcripts or unrelated local images.
 
 ## Verification
 
